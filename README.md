@@ -1,29 +1,25 @@
-# Vinicius Souza 
+### Hello, I'm Vinicius Souza 👋
 
-Hi, I'm a Software Engineer at [Globo.com](http://globo.com) working on Webmedia platform, focused to deliver software to offer a better experience in video consuming.
+#### About Me
+- 🌐 Software Engineer, Open Source Contributor, and Backend Developer.
+- 💼 Currently working as a Staff Software Engineer at Globo.
+- 🔭 I'm constantly seeking challenges in high-availability backend systems to make a tangible positive impact in people's lives.
+- 🌟 I'm versatile, adaptable, and passionate about creating innovative solutions that transcend boundaries.
 
-I live in Rio de Janeiro, Brazil. I'm working with Golang and Elixir and I'm currently learning Rust and studying Machine Learning.
+#### Open Source Contributions
+- 🚀 Over 45,000 stars on my open-source projects and nearly 1,500 followers on Github.
+- 📱 I fostered a thriving community among iOS developers with the Awesome iOS project.
+- 🐳 My Docker containers have amassed over 800,000 downloads on Docker Hub.
+- 💻 Actively involved in various projects on Github, contributing to the global advancement of developers.
 
-I'm the creator of the [Awesome-iOS](http://github.com/vsouza/awesome-ios) repository and I would like to say thanks to the community to help to grow the list and contribute for all these years, sharing amazing content. We are more than 800 contributors! ❤️ 
+#### Backend Development Experience
+- 🖥️ Proficient in Golang, Python, Ruby, and PHP (certified Zend Certified PHP Engineer).
+- ☁️ Experience in cloud environments like GCP, AWS, and on-premises frameworks such as Apache Cloudstack.
+- 📊 Expertise in database management: MongoDB, MySQL, Cassandra, and BigQuery.
+- 🛠️ Skills in cache techniques, including experience as a CDN Developer and configurations with Redis and Nginx Proxy.
+- 🚀 Proficient in provisioning tools like Kubernetes, Docker, Terraform, and Puppet.
 
-<!--
-**vsouza/vsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### Get in touch
- * [Linkedin](http://linkedin.com/in/iamvsouza/)
- * Say [Hi](mailto:hi@vsouza.com)
- * [Personal site](http://vsouza.com)
-
+#### Let's Connect
+- 🌐 [Website/Blog](vsouza.com)
+- 💼 [LinkedIn](www.linkedin.com/in/iamvsouza)
+- 📧 [Email](hi@vsouza.com)
