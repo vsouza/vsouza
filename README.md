@@ -20,6 +20,6 @@
 - 🚀 Proficient in provisioning tools like Kubernetes, Docker, Terraform, and Puppet.
 
 #### Let's Connect
-- 🌐 [Website/Blog](vsouza.com)
+- 🌐 [Website/Blog](www.vsouza.com)
 - 💼 [LinkedIn](www.linkedin.com/in/iamvsouza)
 - 📧 [Email](hi@vsouza.com)
